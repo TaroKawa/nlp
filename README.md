@@ -1,4 +1,5 @@
-文章（英語）からPositive or Negative
+文章（英語）からPositive or Negative判定
+
 
 * Imbalacne 対策にForcal lossを使用する
 * Attentionで判定時の根拠を可視化可能
